@@ -6,3 +6,5 @@ web kami dibuat menggunakan framework CodeIgniter, didalam web kami terdapat aku
 didalam akun admin terdapat Dashboard, Role, My Profile, Edit Profile, Change Password, Menu Management, dan Submenu Management.
 
 sedangkan didalam akun member/user biasa terdapat My Profile, Edit Profile, dan Change Password.
+
+dan untuk file login.php dan index.php saya hapus beserta folder adminnya dikarenakan saya ganti dengan folder application berserta isi folder dan file yang telah disediakan oleh CodeIgniter
