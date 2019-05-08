@@ -1,0 +1,8 @@
+anggota kelompok terdiri dari 2 orang diantaranya :
+1. Bhaswara Ananata | 17312080
+2. Nasya Nabila Nasoba | 17312088
+
+web kami dibuat menggunakan framework CodeIgniter, didalam web kami terdapat akun admin dan akun member/user biasa,
+didalam akun admin terdapat Dashboard, Role, My Profile, Edit Profile, Change Password, Menu Management, dan Submenu Management.
+
+sedangkan didalam akun member/user biasa terdapat My Profile, Edit Profile, dan Change Password.
