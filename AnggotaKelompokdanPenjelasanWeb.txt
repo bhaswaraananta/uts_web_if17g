@@ -8,3 +8,6 @@ didalam akun admin terdapat Dashboard, Role, My Profile, Edit Profile, Change Pa
 sedangkan didalam akun member/user biasa terdapat My Profile, Edit Profile, dan Change Password.
 
 dan untuk file login.php dan index.php saya hapus beserta folder adminnya dikarenakan saya ganti dengan folder application berserta isi folder dan file yang telah disediakan oleh CodeIgniter
+
+
+web ini ada CRUD yang belum berfungsi yaitu fungsi edit dan delete di Menu Management dan Submenu Management
